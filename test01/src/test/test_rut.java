@@ -1,10 +1,16 @@
-package App;
+/**package test;
 
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
+
+import App;
+
 import java.sql.*;
 
 public class test_rut {
+
+
+    
     @Test
     public void arrienda_menor_a_28(){
 
@@ -25,4 +31,4 @@ public class test_rut {
     public void inyeccionsql() {
 
     }
-}
+}**/
